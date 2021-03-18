@@ -1,2 +1,2 @@
-# hypeblog
+# hyperblog
 Curso de platzi
